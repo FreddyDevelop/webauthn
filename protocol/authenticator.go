@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/go-webauthn/webauthn/protocol/webauthncbor"
+	"github.com/FreddyDevelop/webauthn/protocol/webauthncbor"
 )
 
 const (

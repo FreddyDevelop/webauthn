@@ -5,7 +5,7 @@ import (
 	"encoding/base64"
 	"net/http"
 
-	"github.com/go-webauthn/webauthn/protocol"
+	"github.com/FreddyDevelop/webauthn/protocol"
 )
 
 // BEGIN REGISTRATION

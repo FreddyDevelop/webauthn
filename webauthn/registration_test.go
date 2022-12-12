@@ -3,7 +3,7 @@ package webauthn
 import (
 	"testing"
 
-	"github.com/go-webauthn/webauthn/protocol"
+	"github.com/FreddyDevelop/webauthn/protocol"
 )
 
 func TestRegistration_FinishRegistrationFailure(t *testing.T) {

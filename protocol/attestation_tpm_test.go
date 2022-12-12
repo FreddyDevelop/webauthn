@@ -14,8 +14,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/go-webauthn/webauthn/protocol/webauthncbor"
-	"github.com/go-webauthn/webauthn/protocol/webauthncose"
+	"github.com/FreddyDevelop/webauthn/protocol/webauthncbor"
+	"github.com/FreddyDevelop/webauthn/protocol/webauthncose"
 	"github.com/google/go-tpm/tpm2"
 	"github.com/stretchr/testify/assert"
 )

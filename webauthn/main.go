@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/go-webauthn/webauthn/protocol"
+	"github.com/FreddyDevelop/webauthn/protocol"
 )
 
 var defaultTimeout = 60000

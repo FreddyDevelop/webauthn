@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-webauthn/webauthn/protocol/webauthncose"
+	"github.com/FreddyDevelop/webauthn/protocol/webauthncose"
 	"github.com/google/uuid"
 )
 
